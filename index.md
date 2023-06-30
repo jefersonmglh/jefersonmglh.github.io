@@ -2,9 +2,9 @@
 
 ---
 
-### [Development and application of artificial intelligence techniques to estimate the level of influence of socioeconomic factors on the performance of ENEM 2021 candidates](https://github.com/jefersonmglh/analise_enem_projeto_semantix/blob/main/README.md)
-<br> This report analyzes the impact of socioeconomic factors on ENEM 2021 candidates' performance using predictive analysis. Artificial intelligence techniques and machine learning algorithms, including Linear Regression, Random Forest, and Neural Networks, were used to develop predictive models. The results showed that the neural network model outperformed others, assessed by metrics like R² and Mean Squared Error. Exploring candidates' socioeconomic characteristics, family income emerged as the most influential factor, followed by the presence of a computer at home and the number of people living with the candidate.</br>
-<img src="https://github.com/jefersonmglh/analise_enem_projeto_semantix/blob/main/pics/permutation.png?raw=true"/>
+### [Development and application of artificial intelligence techniques to estimate the level of influence of socioeconomic factors on the performance of ENEM 2021 candidates](https://github.com/jefersonmglh/analise_enem_projeto_semantix/){:target="_blank"}
+<br> This report analyzes the impact of socioeconomic factors on ENEM 2021 candidate's performance using predictive analysis. The results showed that the neural network model outperformed others techniques, assessed by metrics like R² and Mean Squared Error. Exploring candidates' socioeconomic characteristics, family income emerged as the most influential factor, followed by the presence of a computer at home and the number of people living with the candidate. *article in Portuguese Brazil* <br>
+<img src="https://github.com/jefersonmglh/analise_enem_projeto_semantix/blob/main/pics/metricas.png?raw=true"/>
 <img src="https://github.com/jefersonmglh/analise_enem_projeto_semantix/blob/main/pics/q024_box.png?raw=true"/>
 
 ---
