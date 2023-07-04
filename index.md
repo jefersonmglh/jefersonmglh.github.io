@@ -3,26 +3,39 @@
 ---
 
 ### [Development and application of artificial intelligence techniques to estimate the level of influence of socioeconomic factors on the performance of ENEM 2021 candidates](https://github.com/jefersonmglh/analise_enem_projeto_semantix/){:target="_blank"}
-<br> This report analyzes the impact of socioeconomic factors on ENEM 2021 candidate's performance using predictive analysis. The results showed that the neural network model outperformed others techniques, assessed by metrics like R² and Mean Squared Error. Exploring candidates' socioeconomic characteristics, family income emerged as the most influential factor, followed by the presence of a computer at home and the number of people living with the candidate.
+<br> This report analyzes the impact of socioeconomic factors on ENEM 2021 candidate's performance using predictive analysis. The results showed that the neural network model outperformed others techniques, assessed by metrics like R² and Mean Squared Error. Exploring candidates' socioeconomic characteristics, family income emerged as the most influential factor, followed by the presence of a computer at home and the number of people living with the candidate.<br>
 *article in Portuguese Brazil* <br>
 
 <img src="https://github.com/jefersonmglh/analise_enem_projeto_semantix/blob/main/pics/metricas.png?raw=true"/>
 <img src="https://github.com/jefersonmglh/analise_enem_projeto_semantix/blob/main/pics/q024_box.png?raw=true"/>
 
 ---
+
+### [Formula 1 Data Analyses](https://github.com/jefersonmglh/Formula-1_historial_analysis){:target="_blank"}
+<br>This project encompasses two main aspects: the analysis of Formula 1 history [(Repository)](https://github.com/jefersonmglh/Formula-1_historial_analysis) and the 2023 Season's analyses of each Grand Prix [(Repository)](https://github.com/jefersonmglh/Formula-1_2023_season_analyses). In the first part, we identified the most successful drivers and prominent constructor teams throughout the history of Formula 1. In the second part, we conducted a detailed analysis of each Grand Prix, including practice sessions, qualifying, and the race itself. This analysis delves into aspects such as speeds, lap times, car and driver performance, and some peculiarities of the track. Additionally, the study and improvement of techniques for manipulating dataframes and creating graphs were of great importance in this project. <br>
+
+<img src="images/f1_hist/startvsfinish.png?raw=true"/>
+<img src="images/f1_race/f1_racepace.png?raw=true"/>
+<img src="images/f1_race/fuel_corr.png?raw=true"/>
+---
+
 ### [Prediction of the carbonation front in concrete structures using machine learning](https://github.com/jefersonmglh/analise_enem_projeto_semantix/){:target="_blank"}
-<br>The depth of the carbonation front in concrete increases over time due to the ingress and reaction of CO2, but slows down as calcium carbonate partially blocks the pores.
+<br>This work was conducted as a 'Freelancer' for a PhD project at the Federal University of Goias. The project aims to study the depth of the carbonation front in concrete over time. The depth of the carbonation front in concrete increases over time due to the ingress and reaction of CO2, but slows down as calcium carbonate partially blocks the pores. This work involved the construction of a neural network model, specifically a Long Short-Term Memory (LSTM) network. The model incorporated both internal variables, derived from the age and composition of the concrete, and external variables, derived from the exposure conditions of the concrete, such as climate conditions. These external variables required statistical analysis for accurate determination. Given that time is also a variable of interest, the model was developed as a timeseries neural network, leveraging the temporal nature of the data.<br>
+*It's important to note that the data and results themselves are protected by the Federal University of Goias and FURNAS, with restrictions on their disclosure by third parties.*
+<br>
+<img src="images/frent_carbo/concret.png?raw=true"/>
 <img src="images/frent_carbo/Diagrama em branco.jpeg?raw=true"/>
 
 ---
-### [Formula 1 Data Analyses](https://github.com/jefersonmglh/Formula-1_historial_analysis){:target="_blank"}
-<br>This project encompasses two main aspects: the analysis of Formula 1 history and the analysis of each Grand Prix. In the first part, we identified the most successful drivers and prominent constructor teams throughout the history of Formula 1. In the second part, we conducted a detailed analysis of each Grand Prix, including practice sessions, qualifying, and the race itself. This analysis delves into aspects such as speeds, lap times, car and driver performance, and some peculiarities of the track. Additionally, the study and improvement of techniques for manipulating dataframes and creating graphs were of great importance in this project. <br>
+### [Credit Analysis: Predicting Default with Machine Learning](https://github.com/jefersonmglh/analise-credito){:target="_blank"}
+<br>This project focused on credit analysis, utilizing a dataset containing information about individuals and a target variable (default) indicating whether the person is a good or bad payer. The project involved extensive exploratory data analysis and data preprocessing. Various predictive models, including Naive Bayes and decision tree, were applied. The decision tree model outperformed others, achieving an accuracy of 0.83.
+<br>
 
-<img src="images/f1_hist/f1_hist_compl.png?raw=true"/>
-<img src="images/f1_hist/f1_race_comp.png?raw=true"/>
+<img src="images/credit_anal/tree.png?raw=true"/>
+
+
 ---
-
-### Category Name 2
+<!-- ### Other relevant projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -32,7 +45,7 @@
 
 ---
 
-
+ -->
 
 
 ---
