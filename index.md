@@ -11,7 +11,7 @@
 
 ---
 
-### [Prediction of the carbonation front in concrete structures using machine learning](https://github.com/jefersonmglh/analise_enem_projeto_semantix/){:target="_blank"}
+### [Prediction of the carbonation front in concrete structures using artificial neural network](https://github.com/jefersonmglh/analise_enem_projeto_semantix/){:target="_blank"}
 <br>This 'Freelancer' work was conducted for a PhD project at the Federal University of Goias, with a focus on studying the depth of the carbonation front in concrete over time. To address this, a neural network model, specifically a Long Short-Term Memory (LSTM) network, was constructed. The model incorporated both internal variables (related to the concrete's age and composition) and external variables (related to the concrete's exposure conditions, such as climate). Statistical analysis was employed to accurately determine these external variables. Given the temporal nature of the data, the model was developed as a timeseries neural network to effectively capture the relationship with time.<br>
 *It's important to note that the data and results themselves are protected by the Federal University of Goias and FURNAS, with restrictions on their disclosure by third parties.*
 <br>
