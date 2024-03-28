@@ -5,7 +5,7 @@
 <br>In this project, we employed advanced data science techniques to analyze horse racing performance and predict race outcomes. After collecting and preprocessing raw data from various racing events, including feature engineering and normalization, we developed three neural network models using TensorFlow, alongside XGBoost classifiers and linear regression models. These models were rigorously evaluated for accuracy and performance metrics, and the most promising ones were deployed for real-time or batch predictions, offering valuable insights into horse racing dynamics and strategies.<br>
 
 <img src="images/horse_freela/results.jpeg?raw=true"/>
-<img src="images/horse_freela/flux.jpg?raw=true"/>
+<img src="images/horse_freela/flux1.jpg?raw=true"/>
 
 ---
 
