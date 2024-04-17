@@ -1,14 +1,6 @@
 ## Portfolio
 ---
 
-### [Predictive Modeling for Horse Racing Performance Analysis](https://jefersonmglh.github.io/){:target="_blank"}
-<br>In this project, we employed advanced data science techniques to analyze horse racing performance and predict race outcomes. After collecting and preprocessing raw data from various racing events, including feature engineering and normalization, we developed three neural network models using TensorFlow, alongside XGBoost classifiers and linear regression models. These models were rigorously evaluated for accuracy and performance metrics, and the most promising ones were deployed for real-time or batch predictions, offering valuable insights into horse racing dynamics and strategies.<br>
-
-<img src="images/horse_freela/results.jpeg?raw=true"/>
-<img src="images/horse_freela/flux1.jpg?raw=true"/>
-
----
-
 ### [Development and application of artificial intelligence techniques to estimate the level of influence of socioeconomic factors on the performance of ENEM 2021 candidates](https://github.com/jefersonmglh/analise_enem_projeto_semantix/){:target="_blank"}
 <br> This report analyzes the impact of socioeconomic factors on ENEM 2021 candidate's performance using predictive analysis. The results showed that the neural network model outperformed others techniques, assessed by metrics like R² and Mean Squared Error. Exploring candidates' socioeconomic characteristics, family income emerged as the most influential factor, followed by the presence of a computer at home and the number of people living with the candidate.<br>
 *article in Portuguese Brazil* <br>
@@ -33,6 +25,14 @@
 <img src="images/f1_hist/startvsfinish.png?raw=true"/>
 <img src="images/f1_race/f1_racepace.png?raw=true"/>
 <img src="images/f1_race/fuel_corr.png?raw=true"/>
+
+---
+
+### [Predictive Modeling for Horse Racing Performance Analysis](https://jefersonmglh.github.io/){:target="_blank"}
+<br>In this project, we employed advanced data science techniques to analyze horse racing performance and predict race outcomes. After collecting and preprocessing raw data from various racing events, including feature engineering and normalization, we developed three neural network models using TensorFlow, alongside XGBoost classifiers and linear regression models. These models were rigorously evaluated for accuracy and performance metrics, and the most promising ones were deployed for real-time or batch predictions, offering valuable insights into horse racing dynamics and strategies.<br>
+
+<img src="images/horse_freela/results.jpeg?raw=true"/>
+<img src="images/horse_freela/flux1.jpg?raw=true"/>
 
 ---
 
