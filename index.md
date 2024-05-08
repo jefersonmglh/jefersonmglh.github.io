@@ -1,12 +1,4 @@
 ## Portfolio
----
-
-### [Development and application of artificial intelligence techniques to estimate the level of influence of socioeconomic factors on the performance of ENEM 2021 candidates](https://github.com/jefersonmglh/analise_enem_projeto_semantix/){:target="_blank"}
-<br> This report analyzes the impact of socioeconomic factors on ENEM 2021 candidate's performance using predictive analysis. The results showed that the neural network model outperformed others techniques, assessed by metrics like R² and Mean Squared Error. Exploring candidates' socioeconomic characteristics, family income emerged as the most influential factor, followed by the presence of a computer at home and the number of people living with the candidate.<br>
-*article in Portuguese Brazil* <br>
-
-<img src="https://github.com/jefersonmglh/analise_enem_projeto_semantix/blob/main/pics/metricas.png?raw=true"/>
-<img src="https://github.com/jefersonmglh/analise_enem_projeto_semantix/blob/main/pics/q024_box.png?raw=true"/>
 
 ---
 
@@ -18,13 +10,19 @@
 <img src="images/frent_carbo/Diagrama em branco.jpeg?raw=true"/>
 
 ---
+### [Exploring Chatbots and Advanced Natural Language Models to Facilitate Access to Operational Procedures in Laboratories.](https://github.com/jefersonmglh/procedures_into_llm){:target="_blank"}
+<br>This project aimed to employ chatbots and advanced natural language processing models to facilitate the consultation and understanding of operational procedures in laboratory environments. Through the implementation of artificial intelligence techniques, including Large Language Models (LLMs), our goal was to develop an interface that allowed users to access and interpret procedures effectively, quickly, and independently.
+<br>
+<img src="images/chatbot_pop/principio do metodo.png?raw=true"/>
+<img src="images/chatbot_pop/2 diag.png?raw=true"/>
 
-### [Formula 1 Data Analyses](https://github.com/jefersonmglh/Formula-1_historial_analysis){:target="_blank"}
-<br>This project encompasses two main aspects: the analysis of Formula 1 history [(Repository)](https://github.com/jefersonmglh/Formula-1_historial_analysis){:target="_blank"} and the 2023 Season's analyses of each Grand Prix [(Repository)](https://github.com/jefersonmglh/Formula-1_2023_season_analyses){:target="_blank"}. In the first part, we identified the most successful drivers and prominent constructor teams throughout the history of Formula 1. In the second part, we conducted a detailed analysis of each Grand Prix, including practice sessions, qualifying, and the race itself. This analysis delves into aspects such as speeds, lap times, car and driver performance, and some peculiarities of the track. Additionally, the study and improvement of techniques for manipulating dataframes and creating graphs were of great importance in this project. <br>
+---
+### [Development and application of artificial intelligence techniques to estimate the level of influence of socioeconomic factors on the performance of ENEM 2021 candidates](https://github.com/jefersonmglh/analise_enem_projeto_semantix/){:target="_blank"}
+<br> This report analyzes the impact of socioeconomic factors on ENEM 2021 candidate's performance using predictive analysis. The results showed that the neural network model outperformed others techniques, assessed by metrics like R² and Mean Squared Error. Exploring candidates' socioeconomic characteristics, family income emerged as the most influential factor, followed by the presence of a computer at home and the number of people living with the candidate.<br>
+*article in Portuguese Brazil* <br>
 
-<img src="images/f1_hist/startvsfinish.png?raw=true"/>
-<img src="images/f1_race/f1_racepace.png?raw=true"/>
-<img src="images/f1_race/fuel_corr.png?raw=true"/>
+<img src="https://github.com/jefersonmglh/analise_enem_projeto_semantix/blob/main/pics/metricas.png?raw=true"/>
+<img src="https://github.com/jefersonmglh/analise_enem_projeto_semantix/blob/main/pics/q024_box.png?raw=true"/>
 
 ---
 
@@ -33,6 +31,15 @@
 
 <img src="images/horse_freela/results.jpeg?raw=true"/>
 <img src="images/horse_freela/flux1.jpg?raw=true"/>
+
+---
+
+### [Formula 1 Data Analyses](https://github.com/jefersonmglh/Formula-1_historial_analysis){:target="_blank"}
+<br>This project encompasses two main aspects: the analysis of Formula 1 history [(Repository)](https://github.com/jefersonmglh/Formula-1_historial_analysis){:target="_blank"} and the 2023 Season's analyses of each Grand Prix [(Repository)](https://github.com/jefersonmglh/Formula-1_2023_season_analyses){:target="_blank"}. In the first part, we identified the most successful drivers and prominent constructor teams throughout the history of Formula 1. In the second part, we conducted a detailed analysis of each Grand Prix, including practice sessions, qualifying, and the race itself. This analysis delves into aspects such as speeds, lap times, car and driver performance, and some peculiarities of the track. Additionally, the study and improvement of techniques for manipulating dataframes and creating graphs were of great importance in this project. <br>
+
+<img src="images/f1_hist/startvsfinish.png?raw=true"/>
+<img src="images/f1_race/f1_racepace.png?raw=true"/>
+<img src="images/f1_race/fuel_corr.png?raw=true"/>
 
 ---
 
