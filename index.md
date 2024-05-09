@@ -48,8 +48,8 @@
 ### Other relevant projects
 
 - [Credit Analysis: Predicting Default with Machine Learning](https://github.com/jefersonmglh/analise-credito){:target="_blank"}
-- [Exploring Relationships: An Analysis of Rental Prices and Property Features in Sao Paulo](https://github.com/jefersonmglh/SP_Alugueis_EDA/blob/master/sp_house_pricing.ipynb)
-- [Roomie-s-Bot-Finances](https://github.com/jefersonmglh/Roomie-s-Bot-Finances)
+- [Exploring Relationships: An Analysis of Rental Prices and Property Features in Sao Paulo](https://github.com/jefersonmglh/SP_Alugueis_EDA/blob/master/sp_house_pricing.ipynb){:target="_blank"}
+- [Roomie-s-Bot-Finances](https://github.com/jefersonmglh/Roomie-s-Bot-Finances){:target="_blank"}
 
 
 
