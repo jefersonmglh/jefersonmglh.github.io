@@ -41,27 +41,18 @@
 <img src="images/f1_race/f1_racepace.png?raw=true"/>
 <img src="images/f1_race/fuel_corr.png?raw=true"/>
 
----
 
-### [Credit Analysis: Predicting Default with Machine Learning](https://github.com/jefersonmglh/analise-credito){:target="_blank"}
-<br>This project focused on credit analysis, utilizing a dataset containing information about individuals and a target variable (default) indicating whether the person is a good or bad payer. The project involved extensive exploratory data analysis and data preprocessing. Various predictive models, including Naive Bayes and decision tree, were applied. The decision tree model outperformed others, achieving an accuracy of 0.83.
-<br>
-
-<img src="images/credit_anal/tree.png?raw=true"/>
 
 
 ---
-<!-- ### Other relevant projects
+### Other relevant projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Credit Analysis: Predicting Default with Machine Learning](https://github.com/jefersonmglh/analise-credito){:target="_blank"}
+- [Exploring Relationships: An Analysis of Rental Prices and Property Features in Sao Paulo](https://github.com/jefersonmglh/SP_Alugueis_EDA/blob/master/sp_house_pricing.ipynb)
+- [Roomie-s-Bot-Finances](https://github.com/jefersonmglh/Roomie-s-Bot-Finances)
 
----
 
- -->
+
 
 
 ---
